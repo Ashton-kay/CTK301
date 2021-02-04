@@ -1,0 +1,21 @@
+/* Assignment 3 Stylesheet */
+#whiteheader {
+  color: #ffffff;
+  background-color: #FAB798;
+}
+
+.bluetitle {
+  color: #0884BD;
+}
+
+a:link {
+  color: #ff0000;
+}
+
+a:visited {
+  color: #3FBF3F
+}
+
+a:hover {
+  color: #BFBF3F
+}
