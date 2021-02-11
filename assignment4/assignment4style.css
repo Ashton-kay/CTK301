@@ -1,0 +1,25 @@
+.textfont {
+  font-family: sans-serif;
+}
+.centerparagraph {
+  text-align: center;
+  font-family: sans-serif;
+}
+.justifyparagraph {
+  text-align: justify;
+  font-family: sans-serif;
+}
+.header {
+  font-family: sans-serif;
+  font-style: italic;
+  color: #ce7011
+  font-size: normal;
+}
+.imgbox {
+  border: 50px solid #000000;
+  padding: 10px;
+  background-color: #ffffff;
+}
+main {
+  background-image: url(KittyCatNap.JPG);
+}
