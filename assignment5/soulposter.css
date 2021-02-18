@@ -1,0 +1,48 @@
+body {
+  background-image: url(Soul.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+#souldescription {
+  font-family: Helvetica, Arial;
+  color: #ffffff;
+  text-align: right;
+}
+.SOULtitle {
+  color: #4084f1;
+  font-family: Helvetica, Arial;
+  font-weight: bold;
+  font-size: 150px;
+  text-align: right;
+}
+.moviedescription {
+  color: #4084f1;
+  font-family: Helvetica, Arial;
+  font-weight: bold;
+  text-align: right;
+}
+main {
+  background-color: #ffffff;
+}
+header {
+  background-color: #ffffff;
+  background-position bottom;
+}
+a:active {
+  color: #4084f1;
+}
+a:link {
+  color: #4084f1;
+}
+a:visited {
+  color: #fba636;
+}
+a:active {
+  color: #4084f1;
+}
+a:hover {
+  color: #4084f1;
+}
+a {
+  color: #4084f1;
+}
