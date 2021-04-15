@@ -1,12 +1,13 @@
 /* This is the Top of the Page */
 #topheader {
   background-color: #7bbb50;
-  font-family: Helvetica;
+  font-family: 'Bangers', Helvetica;
   font-weight: bold;
   font-size: 55px;
   text-align: center;
   padding: 20px 20px 20px 20px;
   margin: 10px 10px 10px 10px;
+  text-shadow: 5px 5px 5px #fff;
 }
 /* This is the Links */
 header ul {
@@ -30,6 +31,7 @@ header li a {
   padding: 10px;
   background-color: #dcbee3;
   text-decoration: none;
+  transition: background-color .5s;
 }
 header li a:hover {
   background-color: #a279ac;
@@ -51,7 +53,11 @@ nav li {
   padding: 10px;
   border: 3px solid #11838c;
   margin: 10px;
-  width: 70px;
+  width: 15px;
+  border-radius: 24px;
+}
+nav li a{
+  color: #000000;
 }
 /* Pictures */
 .RestingPic {
@@ -85,6 +91,7 @@ nav li {
   font-weight: bold;
   font-style: italic;
   text-align: left;
+  clear: both;
 }
 .symbol {
   float: left;
