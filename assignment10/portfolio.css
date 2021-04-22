@@ -1,0 +1,111 @@
+/* This is the Top of the Page */
+#topheader {
+  background-color: #7bbb50;
+  font-family: 'Bangers', Helvetica;
+  font-weight: bold;
+  font-size: 55px;
+  text-align: center;
+  padding: 20px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
+  text-shadow: 5px 5px 5px #fff;
+}
+/* This is the Links */
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+header li {
+  display: inline-block;
+  padding: 0
+  margin: 10px;
+  width: 200px;
+  font-family: Helvetica;
+  font-size: 24px;
+}
+header li a {
+  color: #000000;
+  font-family: Helvetica;
+  font-size: 24px;
+  display: block;
+  padding: 10px;
+  background-color: #dcbee3;
+  text-decoration: none;
+  transition: background-color .5s;
+}
+header li a:hover {
+  background-color: #a279ac;
+}
+header li a:active {
+  background-color: #a279ac;
+}
+nav {
+  border: 3px solid #11838c;
+  grid-column: span 2;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav li {
+  background-color: #d2f3f3;
+  padding: 10px;
+  border: 3px solid #11838c;
+  margin: 10px;
+  width: 15px;
+  border-radius: 24px;
+}
+nav li a{
+  color: #000000;
+}
+/* Pictures */
+.RestingPic {
+  width: 200px;
+  float: left;
+}
+.SittingPic {
+  width: 330px;
+  float: right;
+  padding-bottom: 300px;
+}
+.RedDress {
+  width: 400px;
+}
+.goldgreed {
+  width: 200px;
+  float: right;
+}
+.goldgreedthumbnail {
+  width: 200px;
+  float: right;
+}
+.bio {
+  width: 300px;
+}
+.biothumbnail {
+  width: 300px;
+}
+.atom {
+  width: 300px;
+  float: right;
+}
+.atomthumbnail {
+  width: 300px;
+  float: right;
+}
+/* Bottom of the Page */
+#bottomfooter {
+  background-color: #7bbb50;
+  padding: 50px 10px 50px 10px;
+  margin: 10px 10px 10px 10px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: left;
+  clear: both;
+}
+.symbol {
+  float: left;
+  width: 80px;
+  margin-left: 10px;
+}
