@@ -56,8 +56,17 @@ nav li {
   width: 15px;
   border-radius: 24px;
 }
-nav li a{
+nav li a {
   color: #000000;
+}
+#welcomepage {
+  width: 1000px;
+}
+#goldandgreed {
+  width: 500px;
+}
+#bioware {
+  width: 500px;
 }
 /* Pictures */
 .RestingPic {
@@ -66,8 +75,9 @@ nav li a{
 }
 .SittingPic {
   width: 330px;
-  float: right;
+  float: center;
   padding-bottom: 300px;
+  padding-left: 800px;
 }
 .RedDress {
   width: 400px;
@@ -90,7 +100,7 @@ nav li a{
   margin: 10px 10px 10px 10px;
   font-weight: bold;
   font-style: italic;
-  text-align: left;
+  text-align: center;
   clear: both;
 }
 .symbol {
